@@ -11,6 +11,11 @@
 ## About Me
 Passionate about building scalable and efficient web applications using MongoDB, Express.js, React, and Node.js. Always eager to learn new technologies and improve my skills. Love contributing to open source and collaborating with other developers.
 
+## Current Focus & Learning:
+- Deepening my expertise in the MERN Stack.  
+- Learning and practicing System Design.  
+- Working on Security best practices.  
+- Regularly practicing Data Structures & Algorithms (DSA).
 
 
 
