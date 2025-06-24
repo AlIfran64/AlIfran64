@@ -4,7 +4,7 @@
 
 
 # Hi, I'm Al Ifran 👋  
-#**MERN Stack Web Developer** 
+*MERN Stack Web Developer*
 
 
 
