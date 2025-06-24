@@ -4,14 +4,10 @@
 
 
 # Hi, I'm Al Ifran 👋
-
-**Name:** Al Ifran  
-**Designation:** MERN Stack Web Developer
+**MERN Stack Web Developer** 
 
 ## About Me
-Passionate about building scalable and efficient web applications using MongoDB, Express.js, React, and Node.js.  
-Always eager to learn new technologies and improve my skills.  
-Love contributing to open source and collaborating with other developers.
+Passionate about building scalable and efficient web applications using MongoDB, Express.js, React, and Node.js. Always eager to learn new technologies and improve my skills. Love contributing to open source and collaborating with other developers.
 
 
 
